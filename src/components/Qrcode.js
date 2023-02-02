@@ -44,6 +44,7 @@ export default function Qrcode() {
               }}
             />
           </div>
+          <h1 className=""></h1>
         </Box>
       </div>
     </ThemeProvider>

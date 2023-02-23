@@ -23,8 +23,9 @@ export default function Qrcode() {
           {valorqrCode != "" && (
             <QRCode
               value={valorqrCode}
-              className="bg-slate-200 rounded-2xl shadow py-10 m-2"
+              className="bg-blue-500 rounded-2xl shadow py-10 m-2"
               size={280}
+              bgColor={"#FFFFFF"}
             />
           )}
 

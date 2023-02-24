@@ -47,7 +47,7 @@ export default function Qrcode() {
 
             <div className="text-sm text-slate-500 leading-relaxed">
               <p>Scan the default QR code to visit my Portfolio</p>
-              <p>and take shot on my coding skills.</p>
+              <p>and take shot at my coding skills.</p>
               <p>You can also type something to modify the QR Code.</p>
             </div>
           </div>

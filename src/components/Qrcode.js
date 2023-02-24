@@ -41,7 +41,7 @@ export default function Qrcode() {
           />
           <div className="mb-4">
             <div className="text-lg font-bold leading-relaxed">
-              <h1>Improve your front-end </h1>
+              <h1>Improve my front-end </h1>
               <h1>skills by building projects</h1>
             </div>
 
